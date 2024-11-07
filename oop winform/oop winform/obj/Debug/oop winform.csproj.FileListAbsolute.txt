@@ -1,0 +1,20 @@
+C:\Users\GiangDang\source\repos\oop winform\oop winform\bin\Debug\oop winform.exe.config
+C:\Users\GiangDang\source\repos\oop winform\oop winform\bin\Debug\oop winform.exe
+C:\Users\GiangDang\source\repos\oop winform\oop winform\bin\Debug\oop winform.pdb
+C:\Users\GiangDang\source\repos\oop winform\oop winform\obj\Debug\oop winform.csproj.AssemblyReference.cache
+C:\Users\GiangDang\source\repos\oop winform\oop winform\obj\Debug\oop_winform.Properties.Resources.resources
+C:\Users\GiangDang\source\repos\oop winform\oop winform\obj\Debug\oop winform.csproj.GenerateResource.cache
+C:\Users\GiangDang\source\repos\oop winform\oop winform\obj\Debug\oop winform.csproj.CoreCompileInputs.cache
+C:\Users\GiangDang\source\repos\oop winform\oop winform\obj\Debug\oop winform.exe
+C:\Users\GiangDang\source\repos\oop winform\oop winform\obj\Debug\oop winform.pdb
+C:\Users\GiangDang\source\repos\oop winform\oop winform\obj\Debug\oop_winform.Form1.resources
+C:\Users\tamnh\Source\Repos\oop_winform\oop winform\oop winform\bin\Debug\oop winform.exe.config
+C:\Users\tamnh\Source\Repos\oop_winform\oop winform\oop winform\bin\Debug\oop winform.exe
+C:\Users\tamnh\Source\Repos\oop_winform\oop winform\oop winform\bin\Debug\oop winform.pdb
+C:\Users\tamnh\Source\Repos\oop_winform\oop winform\oop winform\obj\Debug\oop winform.csproj.AssemblyReference.cache
+C:\Users\tamnh\Source\Repos\oop_winform\oop winform\oop winform\obj\Debug\oop_winform.Form1.resources
+C:\Users\tamnh\Source\Repos\oop_winform\oop winform\oop winform\obj\Debug\oop_winform.Properties.Resources.resources
+C:\Users\tamnh\Source\Repos\oop_winform\oop winform\oop winform\obj\Debug\oop winform.csproj.GenerateResource.cache
+C:\Users\tamnh\Source\Repos\oop_winform\oop winform\oop winform\obj\Debug\oop winform.csproj.CoreCompileInputs.cache
+C:\Users\tamnh\Source\Repos\oop_winform\oop winform\oop winform\obj\Debug\oop winform.exe
+C:\Users\tamnh\Source\Repos\oop_winform\oop winform\oop winform\obj\Debug\oop winform.pdb
